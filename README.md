@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Kashish! 👋
 
-<!--
-**Kashish403/kashish403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student | Aspiring Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently learning **C** and deepening my knowledge of **Python**
+- 💡 Passionate about technology, problem-solving, and building cool things
+- 🤝 Always open to collaboration and learning from others
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** Python, C (learning)
+- **Interests:** Algorithms, software development, open-source
+
+---
+
+## 📈 GitHub Stats
+
+![Kashish403's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kashish403&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
